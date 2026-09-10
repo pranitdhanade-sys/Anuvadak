@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+__pycache__
+*.pyc
+.venv
+venv
+node_modules
+.pytest_cache
+ml/dataset/raw
+ml/dataset/processed
+ml/models
